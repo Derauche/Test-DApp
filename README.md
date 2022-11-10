@@ -1,3 +1,1 @@
-"# function that returns the nth-rarest item
-   
-   test-agorithm using javascript" 
+"#A simple DApp that connect a wallet and displays the wallet address on screen" 
